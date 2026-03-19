@@ -7,3 +7,4 @@ Repository with git tasks
 - Task 2: .gitignore usage
 - Task 3: Undo changes, revert and reset
 - Task 4: Merge conflicts
+- Task 6: Stash concept
