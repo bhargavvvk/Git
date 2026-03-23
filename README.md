@@ -12,3 +12,4 @@ Repository with git tasks
 - Task 7: cherry-pick
 - Task 8: githooks -- precommit hook
 - Task 9: remote and pr
+- Task 10: reflog
