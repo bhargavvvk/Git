@@ -11,3 +11,4 @@ Repository with git tasks
 - Task 6: Stash concept
 - Task 7: cherry-pick
 - Task 8: githooks -- precommit hook
+- Task 9: remote and pr
