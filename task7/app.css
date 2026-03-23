@@ -34,4 +34,5 @@ button {
 
 button:hover {
     background-color: #0056b3;
+    background: linear-gradient(to right, #007bff, #0056b3);
 }
