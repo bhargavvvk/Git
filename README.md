@@ -9,3 +9,4 @@ Repository with git tasks
 - Task 4: Merge conflicts
 - Task 5: Interactive Rebase
 - Task 6: Stash concept
+- Task 7: cherry-pick 
